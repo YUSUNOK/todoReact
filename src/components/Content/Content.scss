@@ -1,0 +1,31 @@
+.todo-item-content {
+    .item {
+        height: 40px;
+        padding: 10px 0;
+        border-bottom: 1px solid #383838;
+    }
+
+    .to-do-input {
+        background-color: #383838;
+        height: 50px;
+        line-height: 50px;
+        border-radius: 5px;
+
+        .to-do-text-emoji {
+            color: #92A2F0;
+            font-size: 15px;
+        }
+
+        .to-do-input-text {
+            color: #92A2F0;
+            font-size: 15px;
+        }
+
+        .to-do-input-input {
+            background-color: #383838;
+            border: none;
+            outline: none;
+            color: #F5F5F5;
+        }
+    }
+}
